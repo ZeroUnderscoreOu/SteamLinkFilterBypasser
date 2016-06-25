@@ -1,4 +1,4 @@
-![SteamLinkFilterBypasser](https://raw.githubusercontent.com/ZeroUnderscoreOu/SteamLinkFilterBypasser/master/SteamLinkFilterBypasser.png)
+![SteamLinkFilterBypasser](https://raw.githubusercontent.com/ZeroUnderscoreOu/SteamLinkFilterBypasser/master/Logo128.png)
 # Steam Link Filter Bypasser
 
 Written by **ZeroUnderscoreOu**
